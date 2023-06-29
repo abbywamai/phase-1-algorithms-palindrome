@@ -1,5 +1,13 @@
 function isPalindrome(word) {
-  // Write your algorithm here
+  if(word == palidrome){
+    return true
+  }else(){
+    return false
+  }
+  console.log(abba)
+  console.log(racecar)
+  console.log(ab)
+  console.log(robot)
 }
 
 /* 
